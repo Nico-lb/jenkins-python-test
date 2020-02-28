@@ -1,0 +1,1 @@
+Stub python project to be used in Jenkins Pipeline
